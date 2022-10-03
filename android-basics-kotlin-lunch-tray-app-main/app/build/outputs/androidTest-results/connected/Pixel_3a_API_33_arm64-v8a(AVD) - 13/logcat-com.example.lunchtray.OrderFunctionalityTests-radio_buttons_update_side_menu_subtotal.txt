@@ -1,0 +1,342 @@
+09-28 00:00:08.099  9000  9021 I TestRunner: started: radio_buttons_update_side_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
+09-28 00:00:08.108  9000  9021 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+09-28 00:00:08.117  9000  9021 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10159; state: ENABLED
+09-28 00:00:08.138   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.155   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.171   720   992 D SplashScreenView: Build android.window.SplashScreenView{b130ff6 V.E...... ......ID 0,0-0,0}
+09-28 00:00:08.171   720   992 D SplashScreenView: Icon: view: null drawable: null size: 0
+09-28 00:00:08.171   720   992 D SplashScreenView: Branding: view: android.view.View{43eeff7 G.ED..... ......I. 0,0-0,0 #10204d9 android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+09-28 00:00:08.206   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.222   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.232   343   476 D goldfish-address-space: claimShared: Ask to claim region [0x1e8000000 0x1e8928000]
+09-28 00:00:08.238   405   405 I BpBinder: onLastStrongRef automatically unlinking death recipients: <uncached descriptor>
+09-28 00:00:08.239   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.272   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.299   343   476 D goldfish-address-space: claimShared: Ask to claim region [0x1ee0dc000 0x1eea04000]
+09-28 00:00:08.306   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.311   343   476 D goldfish-address-space: claimShared: Ask to claim region [0x1ec000000 0x1ec928000]
+09-28 00:00:08.317   720   993 W Parcel  : Expecting binder but got null!
+09-28 00:00:08.326  9000  9025 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+09-28 00:00:08.329  1424  1424 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+09-28 00:00:08.355   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.357  9000  9025 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+09-28 00:00:08.372   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.376  9000  9025 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+09-28 00:00:08.377  1424  1997 E HwDetectorWithState: a: 3
+09-28 00:00:08.405   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.409  1117  1499 D EGL_emulation: app_time_stats: avg=7909.63ms min=7909.63ms max=7909.63ms count=1
+09-28 00:00:08.428   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.434   405   451 W TransactionTracing: Could not find layer id -1
+09-28 00:00:08.445   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.479   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.494   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.509   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.524   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.533  9000  9000 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@bcb53bf in: PRE_ON_CREATE
+09-28 00:00:08.534  9000  9000 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@bcb53bf
+09-28 00:00:08.556   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.576   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.591   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.612   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.626   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.637   720   993 D EGL_emulation: app_time_stats: avg=3031.10ms min=14.18ms max=30138.99ms count=10
+09-28 00:00:08.642   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.644   405   451 W TransactionTracing: Could not find layer id -1
+09-28 00:00:08.658   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.675   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.681   405   451 W TransactionTracing: Could not find layer handle 0xb400007b5eefc430
+09-28 00:00:08.681   405   451 W TransactionTracing: Could not find layer handle 0xb400007b5eefaa50
+09-28 00:00:08.682   405   451 W TransactionTracing: Could not find layer handle 0xb400007b5eefc430
+09-28 00:00:08.691   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.709   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.727   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.741   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.759   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.765  8822  8989 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10102; state: ENABLED
+09-28 00:00:08.767  9000  9000 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10159; state: DISABLED
+09-28 00:00:08.775   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.780  9000  9000 D CompatibilityChangeReporter: Compat change id reported: 37756858; UID 10159; state: ENABLED
+09-28 00:00:08.784  9000  9000 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@bcb53bf in: CREATED
+09-28 00:00:08.792   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.795  9000  9000 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@bcb53bf
+09-28 00:00:08.800  9000  9000 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@bcb53bf in: STARTED
+09-28 00:00:08.807   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.814  9000  9000 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@bcb53bf
+09-28 00:00:08.824   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.845   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.858   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.878   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.894   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.898  9000  9000 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@bcb53bf in: RESUMED
+09-28 00:00:08.901  9000  9000 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@bcb53bf
+09-28 00:00:08.909   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.926   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.934  9000  9000 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@bcb53bf in: PAUSED
+09-28 00:00:08.935  9000  9000 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@bcb53bf
+09-28 00:00:08.942   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.958   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.969   800  1080 D BtGatt.ScanManager: uid 10103 isForeground true scanMode -1
+09-28 00:00:08.975   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:08.993   800  1080 D BtGatt.ScanManager: uid 10103 isForeground true scanMode 1
+09-28 00:00:08.994   800  1080 D BtGatt.ScanManager: uid 10103 isForeground true scanMode -1
+09-28 00:00:09.000  9000  9000 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7c6aaaf in: PRE_ON_CREATE
+09-28 00:00:09.001  9000  9000 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+09-28 00:00:09.022   405   405 W SurfaceFlinger: couldn't log to binary event log: overflow.
+09-28 00:00:09.025   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.026   405   451 W TransactionTracing: Could not find layer handle 0xb400007b5eef4e70
+09-28 00:00:09.027   405   451 W TransactionTracing: Could not find layer id -1
+09-28 00:00:09.027   405   451 W TransactionTracing: Could not find layer id -1
+09-28 00:00:09.027   405   451 W TransactionTracing: Could not find layer id -1
+09-28 00:00:09.027   405   451 W TransactionTracing: Could not find layer id -1
+09-28 00:00:09.027   405   451 W TransactionTracing: Could not find layer id -1
+09-28 00:00:09.060   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.076   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.094   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.111   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.143   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.157   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.169  9000  9000 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7c6aaaf in: CREATED
+09-28 00:00:09.170  9000  9000 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7c6aaaf
+09-28 00:00:09.175   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.187  9000  9000 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7c6aaaf in: STARTED
+09-28 00:00:09.190   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.195  9000  9000 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7c6aaaf
+09-28 00:00:09.197  9000  9000 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7c6aaaf in: RESUMED
+09-28 00:00:09.200  9000  9000 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@7c6aaaf
+09-28 00:00:09.208   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.224   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.237  9000  9000 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@bcb53bf in: STOPPED
+09-28 00:00:09.242   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.254  9000  9000 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@bcb53bf
+09-28 00:00:09.259   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.276   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.290   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.312   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.326   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.343   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.349  9000  9023 D HostConnection: createUnique: call
+09-28 00:00:09.359   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.361  9000  9023 D HostConnection: HostConnection::get() New Host Connection established 0xb400007300b5f850, tid 9023
+09-28 00:00:09.386  9000  9023 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+09-28 00:00:09.399   188   188 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device VINTF manifest.
+09-28 00:00:09.401  9000  9023 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+09-28 00:00:09.401  9000  9023 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+09-28 00:00:09.404  9000  9023 D EGL_emulation: eglCreateContext: 0xb400007300b5fb50: maj 3 min 0 rcv 3
+09-28 00:00:09.408   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.411  9000  9023 D EGL_emulation: eglMakeCurrent: 0xb400007300b5fb50: ver 3 0 (tinfo 0x7524e01080) (first time)
+09-28 00:00:09.434   188   188 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+09-28 00:00:09.435  9000  9023 I Gralloc4: mapper 4.x is not supported
+09-28 00:00:09.440   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.443  9000  9023 D HostConnection: createUnique: call
+09-28 00:00:09.444  9000  9023 D HostConnection: HostConnection::get() New Host Connection established 0xb400007300b5fc10, tid 9023
+09-28 00:00:09.446  9000  9023 D goldfish-address-space: allocate: Ask for block of size 0x100
+09-28 00:00:09.447  9000  9023 D goldfish-address-space: allocate: ioctl allocate returned offset 0x1e7ff8000 size 0x8000
+09-28 00:00:09.449   188   188 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+09-28 00:00:09.449   187   187 I servicemanager: Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest.
+09-28 00:00:09.450  9000  9023 W Gralloc4: allocator 4.x is not supported
+09-28 00:00:09.457   343   476 D goldfish-address-space: claimShared: Ask to claim region [0x1eaa7c000 0x1eb3a4000]
+09-28 00:00:09.467   720   993 D EGL_emulation: app_time_stats: avg=9013.24ms min=9013.24ms max=9013.24ms count=1
+09-28 00:00:09.473   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.492   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.528   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.539  9000  9023 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_0
+09-28 00:00:09.557   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.564   343   476 D goldfish-address-space: claimShared: Ask to claim region [0x1e8f04000 0x1e982c000]
+09-28 00:00:09.574   343   476 D goldfish-address-space: claimShared: Ask to claim region [0x1e982c000 0x1ea154000]
+09-28 00:00:09.593   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.629   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.642   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.660   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.675   720   993 D EGL_emulation: app_time_stats: avg=20.60ms min=1.81ms max=100.63ms count=41
+09-28 00:00:09.701   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.721   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.741   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.753  9000  9023 W Parcel  : Expecting binder but got null!
+09-28 00:00:09.757   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.791   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.810   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.811   540   559 W ziparchive: Unable to open '/data/app/~~WctrPiEK5h_mnEHIz_SK_g==/com.example.lunchtray-0NL8T62PrBKPox87qHqkcA==/base.dm': No such file or directory
+09-28 00:00:09.816   540   559 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +1s684ms
+09-28 00:00:09.826   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.858   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.892   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.908   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.925   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.935  9000  9000 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10159; state: ENABLED
+09-28 00:00:09.957   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.974   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:09.991   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.007   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.024   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.041   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.054   800  1080 D BtGatt.ScanManager: uid 10103 isForeground true scanMode -1
+09-28 00:00:10.062   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.068   800  1080 D BtGatt.ScanManager: uid 10103 isForeground true scanMode 1
+09-28 00:00:10.070   800  1080 D BtGatt.ScanManager: uid 10103 isForeground true scanMode -1
+09-28 00:00:10.075   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.081  5375  5561 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+09-28 00:00:10.084  5375  5561 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+09-28 00:00:10.093  5375  5561 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+09-28 00:00:10.110   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.126   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.158   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.163  5375  5561 I FontLog : Pulling font file for id = 8, cache size = 6 [CONTEXT service_id=132 ]
+09-28 00:00:10.169   540  2060 W InputManager-JNI: Input channel object '6383a66 Splash Screen com.example.lunchtray (client)' was disposed without first being removed with the input manager!
+09-28 00:00:10.174   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.190   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.207   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.213  5375  5561 I FontLog : Pulling font file for id = 8, cache size = 6 [CONTEXT service_id=132 ]
+09-28 00:00:10.224   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.232   540  1962 D WifiNl80211Manager: Scan result ready event
+09-28 00:00:10.232   540  1962 D WifiNative: Scan result ready event
+09-28 00:00:10.240   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.257   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.274   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.290   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.308   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.326   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.343   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.344   405   451 W TransactionTracing: Could not find layer handle 0xb400007b5eef9e50
+09-28 00:00:10.347   405   451 W TransactionTracing: Could not find layer handle 0xb400007b5eef44b0
+09-28 00:00:10.347   405   451 W TransactionTracing: Could not find layer handle 0xb400007b5eef6850
+09-28 00:00:10.348   405   451 W TransactionTracing: Could not find layer handle 0xb400007b5eef6850
+09-28 00:00:10.348   405   451 W TransactionTracing: Could not find layer handle 0xb400007b5eef44b0
+09-28 00:00:10.372  9000  9021 D EventInjectionStrategy: Creating injection strategy with input manager.
+09-28 00:00:10.373  9000  9021 W ample.lunchtray: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+09-28 00:00:10.374  9000  9021 W ample.lunchtray: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+09-28 00:00:10.374  9000  9021 W ample.lunchtray: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+09-28 00:00:10.524   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.534  1343  1343 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+09-28 00:00:10.537  1343  1343 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+09-28 00:00:10.537  1343  1343 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.lunchtray fieldId=-1 fieldName=null extras=null}, false)
+09-28 00:00:10.539  1343  1343 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+09-28 00:00:10.559   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.576   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.577   405   451 W TransactionTracing: Could not find layer handle 0xb400007b5eefb530
+09-28 00:00:10.584  9000  9021 W ample.lunchtray: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+09-28 00:00:10.610   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.614  9000  9000 W ample.lunchtray: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+09-28 00:00:10.617  9000  9000 W ample.lunchtray: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+09-28 00:00:10.617  9000  9000 W ample.lunchtray: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+09-28 00:00:10.624   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.642   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.659   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.670  9000  9000 W ample.lunchtray: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+09-28 00:00:10.671  9000  9000 W ample.lunchtray: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+09-28 00:00:10.674   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.675  9000  9000 W ample.lunchtray: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+09-28 00:00:10.680  9000  9000 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231137/com.example.lunchtray:id/salad>
+09-28 00:00:10.692  1117  1117 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=239.5, y[0]=109.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=659385, downTime=659385, deviceId=-1, source=0x1002, displayId=0, eventId=-716990493 }
+09-28 00:00:10.707   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.727  1117  1117 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=239.5, y[0]=109.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=659425, downTime=659385, deviceId=-1, source=0x1002, displayId=0, eventId=-1032246300 }
+09-28 00:00:10.764   327   375 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:378 failure: Result::NOT_SUPPORTED
+09-28 00:00:10.790   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.811   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.824   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.843   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.860   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.875   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.891   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.909   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.923   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.941   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.957   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.973   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:10.990   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.008   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.023   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.041   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.048  9000  9000 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $2.50"}' assertion on view view.getId() is <2131231216/com.example.lunchtray:id/subtotal>
+09-28 00:00:11.049  9000  9000 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231186/com.example.lunchtray:id/soup>
+09-28 00:00:11.051  1117  1117 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=325.5, y[0]=396.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=659750, downTime=659750, deviceId=-1, source=0x1002, displayId=0, eventId=-353193696 }
+09-28 00:00:11.059   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.074   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.091   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.094  1117  1117 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=325.5, y[0]=396.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=659792, downTime=659750, deviceId=-1, source=0x1002, displayId=0, eventId=-385608614 }
+09-28 00:00:11.124   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.142   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.142   394   526 D AudioFlinger: mixer(0xb4000072cf74e9b0) throttle end: throttle time(42)
+09-28 00:00:11.156   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.174   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.190   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.207   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.223   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.240   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.257   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.274   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.290   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.310   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.323   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.341   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.359   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.374   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.391   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.408   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.423   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.426  9000  9000 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $3.00"}' assertion on view view.getId() is <2131231216/com.example.lunchtray:id/subtotal>
+09-28 00:00:11.429  9000  9000 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231120/com.example.lunchtray:id/potatoes>
+09-28 00:00:11.431  1117  1117 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=243.5, y[0]=637.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=660129, downTime=660129, deviceId=-1, source=0x1002, displayId=0, eventId=-320418982 }
+09-28 00:00:11.440   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.457   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.470  1117  1117 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=243.5, y[0]=637.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=660169, downTime=660129, deviceId=-1, source=0x1002, displayId=0, eventId=-432859600 }
+09-28 00:00:11.474   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.490   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.507   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.512  9000  9023 D EGL_emulation: app_time_stats: avg=30.66ms min=2.08ms max=772.64ms count=51
+09-28 00:00:11.523   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.541   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.542   405   451 W TransactionTracing: Could not find layer id -1
+09-28 00:00:11.559   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.574   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.591   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.608   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.624   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.642   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.658   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.674   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.690   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.706   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.723   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.731  9000  9000 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $2.00"}' assertion on view view.getId() is <2131231216/com.example.lunchtray:id/subtotal>
+09-28 00:00:11.733  9000  9000 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231127/com.example.lunchtray:id/rice>
+09-28 00:00:11.736  1117  1117 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=225.5, y[0]=924.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=660434, downTime=660434, deviceId=-1, source=0x1002, displayId=0, eventId=-938665582 }
+09-28 00:00:11.740   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.757   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.773   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.775  1117  1117 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=225.5, y[0]=924.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=660474, downTime=660434, deviceId=-1, source=0x1002, displayId=0, eventId=-59793033 }
+09-28 00:00:11.809   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.823   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.841   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.858   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.874   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.891   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.907   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.924   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.941   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.957   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.973   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:11.990   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.007   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.023   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.041   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.057   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.074   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.075   405   451 W TransactionTracing: Could not find layer id -1
+09-28 00:00:12.091   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.108   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.123   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.142   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.158   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.173   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.190   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.207   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.224   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.240   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.257   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.274   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.290   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.308   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.325   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.343   349   399 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+09-28 00:00:12.348  9000  9000 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: a string containing "Subtotal: $1.50"}' assertion on view view.getId() is <2131231216/com.example.lunchtray:id/subtotal>
+09-28 00:00:12.349  9000  9021 I TestRunner: finished: radio_buttons_update_side_menu_subtotal(com.example.lunchtray.OrderFunctionalityTests)
